@@ -1,0 +1,19 @@
+﻿Description,Sample Label,Tissue,Tx
+FA_cohort14_sID_1,sp 1,Spleen,PBS
+FA_cohort14_sID_2,sp 2,Spleen,PBS
+FA_cohort14_sID_3,sp 3,Spleen,PBS
+FA_cohort14_sID_4,sp 4,Spleen,Soluble OVA
+FA_cohort14_sID_5,sp 5,Spleen,Soluble OVA
+FA_cohort14_sID_6,sp 6,Spleen,Soluble OVA
+FA_cohort14_sID_7,sp 7,Spleen,PLG(OVA-hi) NP
+FA_cohort14_sID_8,sp 8,Spleen,PLG(OVA-hi) NP
+FA_cohort14_sID_9,sp 9,Spleen,PLG(OVA-hi) NP
+FA_cohort14_sID_10,PP 1,PP,PBS
+FA_cohort14_sID_11,PP 2,PP,PBS
+FA_cohort14_sID_12,PP 3,PP,PBS
+FA_cohort14_sID_13,pp 4,PP,Soluble OVA
+FA_cohort14_sID_14,pp 5,PP,Soluble OVA
+FA_cohort14_sID_15,pp 6,PP,Soluble OVA
+FA_cohort14_sID_16,pp 7,PP,PLG(OVA-hi) NP
+FA_cohort14_sID_17,pp 8,PP,PLG(OVA-hi) NP
+FA_cohort14_sID_18,pp 9,PP,PLG(OVA-hi) NP
