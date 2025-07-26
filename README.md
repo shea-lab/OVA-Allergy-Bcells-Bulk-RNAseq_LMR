@@ -7,5 +7,4 @@ Polymeric allergen-loaded nanoparticles were used as a treatment for a murine mo
 
 - OVA-alum sensitized female Balb/cJ mice (Day 0 and 14)
 - Treatment: i.v. with 2.5 mg of OVA NPs, 100 µg solubilized OVA, or 100 µL vehicle (PBS) (Day 28 and 42)
-- Tissue Extraction: B cells from the peyer’s patches (PP) and spleen (Day 44)
-- Sample Preperation: 
+- Tissue Extraction and Sample Preperation: RNA isolated from B cells from the peyer’s patches (PP) and spleen (Day 44)
