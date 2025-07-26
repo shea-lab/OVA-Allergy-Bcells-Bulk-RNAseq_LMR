@@ -1,4 +1,4 @@
-# Bulk-RNAseq-Bcells
+# Bulk RNAseq of Allergic and Nanoparticle-treated Murine B cells in OVA-alum Allergy Model
 
 Data and study design is publically available in the NIH GEO Database at Accession ID: GSE301060 (Not available until paper submission)
 
