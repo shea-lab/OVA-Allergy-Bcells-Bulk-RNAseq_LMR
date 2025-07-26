@@ -1,0 +1,372 @@
+﻿Genes,Type,Regulation,Source,Citation #,Subset
+Fcrl5,Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711965",1,Regulatory
+Ptpn22,Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711966",1,Regulatory
+Ccdc28b,Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711967",1,Regulatory
+Zbtb20,Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711968",1,Regulatory
+Cd9,Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711969",1,Regulatory
+Cr2,Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711970",1,Regulatory
+Cd1d1,Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711971",1,Regulatory
+Cd5,Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711972",1,Regulatory
+Cd24a,Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711973",1,Regulatory
+Fcer2a,Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711974",1,Regulatory
+Ighd,Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711975",1,Regulatory
+Ighm,Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711976",1,Regulatory
+Sdc1,Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711977",1,Regulatory
+Havcr1,Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711978",1,Regulatory
+Cd274,Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711979",1,Regulatory
+Apoe,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711980",1,Regulatory
+Nrp2,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711981",1,Regulatory
+Tbc1d9,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711982",1,Regulatory
+Nid1,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711983",1,Regulatory
+Rbm47,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711984",1,Regulatory
+Lipc,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711985",1,Regulatory
+Slc7a7,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711986",1,Regulatory
+Nebl,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711987",1,Regulatory
+Capg,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711988",1,Regulatory
+Ahnak,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711989",1,Regulatory
+Tnfrsf8,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711990",1,Regulatory
+S100a11,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711991",1,Regulatory
+Csf2rb,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711992",1,Regulatory
+Krt222,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711993",1,Regulatory
+Actn1,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711994",1,Regulatory
+Lysmd2,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711995",1,Regulatory
+Serpinc1,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711996",1,Regulatory
+C130026l21Rik,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711997",1,Regulatory
+Cd9,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711998",1,Regulatory
+Zbtb32,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711999",1,Regulatory
+Atxn1,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712000",1,Regulatory
+Mical3,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712001",1,Regulatory
+Pld4,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712002",1,Regulatory
+Dmxl2,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712003",1,Regulatory
+Zfp945,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712004",1,Regulatory
+Acp5,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712005",1,Regulatory
+Zdhhc2,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712006",1,Regulatory
+Alpl,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712007",1,Regulatory
+Zap70,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712008",1,Regulatory
+Fhit,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712009",1,Regulatory
+Nek6,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712010",1,Regulatory
+Cpd,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712011",1,Regulatory
+Bag3,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712012",1,Regulatory
+Hdac9,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712013",1,Regulatory
+Cebpd,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712014",1,Regulatory
+Clstn1,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712015",1,Regulatory
+Rgs13,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712016",1,Regulatory
+Pik3cg,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712017",1,Regulatory
+Bcl2l15,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712018",1,Regulatory
+Rab11fip4,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712019",1,Regulatory
+Mlkl,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712020",1,Regulatory
+Ryk,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712021",1,Regulatory
+Tnfsf9,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712022",1,Regulatory
+Tnfsf8,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712023",1,Regulatory
+Stk39,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712024",1,Regulatory
+Perp,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712025",1,Regulatory
+Timd2,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712026",1,Regulatory
+Cd70,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712027",1,Regulatory
+Elk3,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712028",1,Regulatory
+Crim1,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712029",1,Regulatory
+Stat1,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712030",1,Regulatory
+Nt5e,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712031",1,Regulatory
+Ctla4,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712032",1,Regulatory
+Ptprj,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712033",1,Regulatory
+Cd5,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712034",1,Regulatory
+Fcrl5,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712035",1,Regulatory
+Cd300lf,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712036",1,Regulatory
+Ccr1,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712037",1,Regulatory
+Lgals3,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712038",1,Regulatory
+Il10,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712039",1,Regulatory
+Pdcd1,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712040",1,Regulatory
+Cdkn2a,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712041",1,Regulatory
+Gpr55,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712042",1,Regulatory
+Gpr55,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712043",1,Regulatory
+Tigit,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712044",1,Regulatory
+Sh2d1b1,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712045",1,Regulatory
+Fcrl5,Common genes across tissues,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712046",1,Regulatory
+Cd300lf,Common genes across tissues,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712047",1,Regulatory
+Ccr1,Common genes across tissues,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712048",1,Regulatory
+Ptpn22,Common genes across tissues,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712049",1,Regulatory
+Cd9,Common genes across tissues,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712050",1,Regulatory
+Csf2rb,Common genes across tissues,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712051",1,Regulatory
+S100a6,Common genes across tissues,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712052",1,Regulatory
+Plac8,Common genes across tissues,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712053",1,Regulatory
+Ccnd2,Common genes across tissues,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712054",1,Regulatory
+C130026l21Rik,Common genes across tissues,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712055",1,Regulatory
+Zbtb20,Common genes across tissues,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712056",1,Regulatory
+Rilpl2,Common genes across tissues,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712057",1,Regulatory
+Apoe,Common genes across tissues,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712058",1,Regulatory
+Sp140,Common genes across tissues,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712059",1,Regulatory
+Slc7a7,Common genes across tissues,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712060",1,Regulatory
+Rplp0,Common genes across tissues,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712061",1,Regulatory
+Pdia4,Common genes across tissues,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712062",1,Regulatory
+Ccdc28b,Common genes across tissues,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712063",1,Regulatory
+Mzb1,Common genes across tissues,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712064",1,Regulatory
+Nrp2,Atf3-related gene expression between Breg cells and non-Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712065",1,Regulatory
+Cacna1e,Atf3-related gene expression between Breg cells and non-Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712066",1,Regulatory
+Capn2,Atf3-related gene expression between Breg cells and non-Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712067",1,Regulatory
+Atf3,Atf3-related gene expression between Breg cells and non-Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712068",1,Regulatory
+Lmna,Atf3-related gene expression between Breg cells and non-Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712069",1,Regulatory
+Ptpn22,Atf3-related gene expression between Breg cells and non-Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712070",1,Regulatory
+Il5ra,Atf3-related gene expression between Breg cells and non-Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712071",1,Regulatory
+Myadm,Atf3-related gene expression between Breg cells and non-Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712072",1,Regulatory
+Zbtb32,Atf3-related gene expression between Breg cells and non-Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712073",1,Regulatory
+Tubb2a,Atf3-related gene expression between Breg cells and non-Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712074",1,Regulatory
+Ccr7,Breg subsets marker genes ,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712075",1,Regulatory
+Apoe,Breg subsets marker genes ,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712076",1,Regulatory
+Ighv11-2,Breg subsets marker genes ,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712077",1,Regulatory
+S100a4,Breg subsets marker genes ,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712078",1,Regulatory
+Ighv1-55,Breg subsets marker genes ,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712079",1,Regulatory
+Cr2,Breg subsets marker genes ,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712080",1,Regulatory
+Stmn1,Breg subsets marker genes ,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712081",1,Regulatory
+Irf8,non-B10 Bregs,Down," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712082",1,Regulatory
+Limd2,non-B10 Bregs,Down," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712083",1,Regulatory
+Chchd10,non-B10 Bregs,Down," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712084",1,Regulatory
+Cr2,non-B10 Bregs,Down," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712085",1,Regulatory
+Fcer2a,non-B10 Bregs,Down," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712086",1,Regulatory
+Ighd,non-B10 Bregs,Down," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712087",1,Regulatory
+Ms4a4c,non-B10 Bregs,Down," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712088",1,Regulatory
+Cd72,non-B10 Bregs,Down," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712089",1,Regulatory
+Anxa2,B10 v non-B10 Bregs,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712089",,
+Zbtb32,B10 v non-B10 Bregs,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712089",,
+Lgals1,B10 v non-B10 Bregs,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712089",,
+Crip1,B10 v non-B10 Bregs,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712089",,
+Cd9,B10 v non-B10 Bregs,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712089",,
+Ass1,B10 v non-B10 Bregs,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712089",,
+Ighv11-2,B10 v non-B10 Bregs,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712089",,
+Krt8,B10 v non-B10 Bregs,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712089",,
+Ighv1-55,B10 v non-B10 Bregs,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712089",,
+Igkv12-89,B10 v non-B10 Bregs,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712089",,
+Zcwpw1,B10 v non-B10 Bregs,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712089",,
+Add3,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",,
+Ampd3,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Arhgef1,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Arl8a,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Arrb1,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Asns,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Axl,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+B3gnt5,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+B4galt3,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Bcl2,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Bcl6,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Brwd1,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Ccl22,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Ccm2,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Cd300lf,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Cd55,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Cd70,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Cdc42ep3,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Cdkn2b,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Clcf1,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Clic4,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Cnn3,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Cpm,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Csf2rb,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Ctla4,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Dgkd,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Ell2,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Entpd5,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Epc1,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Fam129a,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Fbxo22,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Fcer2a,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Filip1l,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Fut8,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Gba2,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Hacd3,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Hdac10,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Hivep3,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Hopx,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Hps3,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Ifitm3,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Ikbkb,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Il10,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Itgb1,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Itm2c,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Klf2,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Lag3,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Laptm4b,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Lysmd2,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Mast3,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Mcph1,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Mt1,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Mt2,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Mthfd2,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Oosp1,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Peli1,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Phactr4,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Plscr1,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Ppcs,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Ppfibp2,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Prdm1,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Prkar2a,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Prmt7,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Prr14,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Ptp4a3,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Pxdc1,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Ralgps2,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Rasgrp2,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Rgl2,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Ripor2,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Rmi1,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Rnf44,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Sfxn3,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Slamf1,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Slc15a4,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Slc48a1,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Sowahc,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Sptlc2,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Stag3,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Stard3,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Tbc1d10c,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Tent5a,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Tent5c,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Tjp2,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Tmbim1,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Tmcc3,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Tmem64,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Trib3,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Vim,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Vwa5a,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Zfp318,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Zfp821,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+Jak1,memory B cells,,"Ota, M. et al. Sci Transl Med. 2024 Feb 7;16(733):eadi0673. doi: 10.1126/scitranslmed.adi0673",3,Pathogenic
+Grb2,memory B cells,,"Ota, M. et al. Sci Transl Med. 2024 Feb 7;16(733):eadi0673. doi: 10.1126/scitranslmed.adi0673",3,Pathogenic
+Ptpn6,memory B cells,,"Ota, M. et al. Sci Transl Med. 2024 Feb 7;16(733):eadi0673. doi: 10.1126/scitranslmed.adi0673",3,Pathogenic
+Socs1,memory B cells,,"Ota, M. et al. Sci Transl Med. 2024 Feb 7;16(733):eadi0673. doi: 10.1126/scitranslmed.adi0673",3,Pathogenic
+Stat6,memory B cells,,"Ota, M. et al. Sci Transl Med. 2024 Feb 7;16(733):eadi0673. doi: 10.1126/scitranslmed.adi0673",3,Pathogenic
+Pik3r1,memory B cells,,"Ota, M. et al. Sci Transl Med. 2024 Feb 7;16(733):eadi0673. doi: 10.1126/scitranslmed.adi0673",3,Pathogenic
+Mapk1,memory B cells,,"Ota, M. et al. Sci Transl Med. 2024 Feb 7;16(733):eadi0673. doi: 10.1126/scitranslmed.adi0673",3,Pathogenic
+Mapk3,memory B cells,,"Ota, M. et al. Sci Transl Med. 2024 Feb 7;16(733):eadi0673. doi: 10.1126/scitranslmed.adi0673",3,Pathogenic
+Il4,memory B cells,,"Ota, M. et al. Sci Transl Med. 2024 Feb 7;16(733):eadi0673. doi: 10.1126/scitranslmed.adi0673",3,Pathogenic
+Il13,memory B cells,,"Ota, M. et al. Sci Transl Med. 2024 Feb 7;16(733):eadi0673. doi: 10.1126/scitranslmed.adi0673",3,Pathogenic
+Hopx,memory B cells,,"Ota, M. et al. Sci Transl Med. 2024 Feb 7;16(733):eadi0673. doi: 10.1126/scitranslmed.adi0673",3,Pathogenic
+S100a10,memory B cells,,"Ota, M. et al. Sci Transl Med. 2024 Feb 7;16(733):eadi0673. doi: 10.1126/scitranslmed.adi0673",3,Pathogenic
+Il4ra,memory B cells,,"Ota, M. et al. Sci Transl Med. 2024 Feb 7;16(733):eadi0673. doi: 10.1126/scitranslmed.adi0673",3,Pathogenic
+Fcer2a,memory B cells,,"Ota, M. et al. Sci Transl Med. 2024 Feb 7;16(733):eadi0673. doi: 10.1126/scitranslmed.adi0673",3,Pathogenic
+Il13ra1,memory B cells,,"Ota, M. et al. Sci Transl Med. 2024 Feb 7;16(733):eadi0673. doi: 10.1126/scitranslmed.adi0673",3,Pathogenic
+Ighg1,memory B cells,,"Ota, M. et al. Sci Transl Med. 2024 Feb 7;16(733):eadi0673. doi: 10.1126/scitranslmed.adi0673",3,Pathogenic
+B4galt1,Ab-producing B cells,,"Udoye, C.C.; Ehlers, M.; Manz, R.A. The B Cell Response and Formation of Allergenic and Anti-Allergenic Antibodies in Food Allergy. Biology 2023, 12, 1501. https://doi.org/10.3390/biology12121501",4,Pathogenic
+St6gal1,Ab-producing B cells,,"Udoye, C.C.; Ehlers, M.; Manz, R.A. The B Cell Response and Formation of Allergenic and Anti-Allergenic Antibodies in Food Allergy. Biology 2023, 12, 1501. https://doi.org/10.3390/biology12121501",4,Pathogenic
+Stat3,Ab-producing B cells,,Christopher D. C. Allen; Features of B Cell Responses Relevant to Allergic Disease. J Immunol 15 January 2022; 208 (2): 257–266. https://doi.org/10.4049/jimmunol.2100988,5,Pathogenic
+Il21r,Ab-producing B cells,,Christopher D. C. Allen; Features of B Cell Responses Relevant to Allergic Disease. J Immunol 15 January 2022; 208 (2): 257–266. https://doi.org/10.4049/jimmunol.2100988,5,Pathogenic
+Il21,Ab-producing B cells,,Christopher D. C. Allen; Features of B Cell Responses Relevant to Allergic Disease. J Immunol 15 January 2022; 208 (2): 257–266. https://doi.org/10.4049/jimmunol.2100988,5,Pathogenic
+Cd40,Ab-producing B cells,,Christopher D. C. Allen; Features of B Cell Responses Relevant to Allergic Disease. J Immunol 15 January 2022; 208 (2): 257–266. https://doi.org/10.4049/jimmunol.2100988,5,Pathogenic
+Ighe,memory B cells,,"von Borstel A, O'Hehir RE, van Zelm MC. IgE in allergy: It takes two. Sci Transl Med. 2024 Feb 7;16(733):eadl1202. doi: 10.1126/scitranslmed.adl1202. Epub 2024 Feb 7. PMID: 38324640.",6,Pathogenic
+Cd27,memory B cells,,"von Borstel A, O'Hehir RE, van Zelm MC. IgE in allergy: It takes two. Sci Transl Med. 2024 Feb 7;16(733):eadl1202. doi: 10.1126/scitranslmed.adl1202. Epub 2024 Feb 7. PMID: 38324640.",6,Pathogenic
+Itgb1,memory B cells,,"von Borstel A, O'Hehir RE, van Zelm MC. IgE in allergy: It takes two. Sci Transl Med. 2024 Feb 7;16(733):eadl1202. doi: 10.1126/scitranslmed.adl1202. Epub 2024 Feb 7. PMID: 38324640.",6,Pathogenic
+Fcgr2b,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Fos,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Hopx,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Sel1l3,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Lgals1,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Chmp1b,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Ids,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Pmaip1,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Vpreb3,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Ap1s2,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Scimp,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Arhgap24,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Syk,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Vopp1,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+H3f3b,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Itm2b,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Alox5ap,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Calhm6,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Gpr183,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Cd40,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Smarcb1,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Rngtt,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Cpne5,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Ahnak,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Tspan13,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Ighe,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Plac8,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Emp3,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Cxcr4,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Zcchc7,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Irf8,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Crip1,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Micu2,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Tagap,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Plekhf2,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Btg1,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Gstk1,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Snx29,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Laptm5,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Zfp36,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Cotl1,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Arid5b,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Gypc,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Tsc22d3,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Cdkn1a,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Cd22,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Vcpkmt,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Itgb1,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Coch,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Sat1,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Adk,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Snx22,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Plpp5,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Tnfrsf13b,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Ly6e,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Fosb,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Pold4,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Klf2,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Adam28,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Ypel5,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Zfp36l2,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Dusp2,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Ptprcap,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Cytip,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Gapdh,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Stag3,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Lyplal1,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+S100a10,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Lsm10,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Txnip,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Evi2b,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Selenof,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Ier2,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Scpep1,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Cd69,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Ccdc50,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Clec2d,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Gadd45b,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Tuba1a,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+S100a4,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Mef2c,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Fcrl1,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Cxcr5,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Sell,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Ccnd3,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Gstp1,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Hvcn1,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Smap2,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Nr4a2,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Cib1,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Rgs2,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Ppp1r14a,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Junb,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Tor3a,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+H3f3b,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Rhob,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Sec62,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Myadm,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Foxp1,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Jun,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Marcksl1,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Peli1,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Cd53,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Ms4a1,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+St6gal1,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Igkc,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Atf7ip,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Fcrla,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Pde4b,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Ralgps2,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Btg2,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Eaf2,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Tent5c,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Pde4d,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Actg1,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Ighg1,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Ighg2a,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic
+Ighg2b,MCB2,,"Joshua F. E. Koenig et al. ,Type 2–polarized memory B cells hold allergen-specific IgE memory.Sci. Transl. Med.16,eadi0944(2024).DOI:10.1126/scitranslmed.adi0944",7,Pathogenic

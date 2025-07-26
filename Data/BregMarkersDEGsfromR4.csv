@@ -1,0 +1,60 @@
+Column1,Genes,Type,Regulation,Source,Citation,Subset
+30,Actn1,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711994",1,Regulatory
+16,Apoe,B10;Common genes across tissues; Breg subsets marker genes ,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711980",1,Regulatory
+144,B3gnt5,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+146,Bcl2,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+102,Cacna1e,Atf3-related gene expression between Breg cells and non-Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712066",1,Regulatory
+90,Ccnd2,Common genes across tissues,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712054",1,Regulatory
+73,Ccr1,B10; Common genes across tissues,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712037",1,Regulatory
+111,Ccr7,Breg subsets marker genes ,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712075",1,Regulatory
+7,Cd1d1,Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711971",1,Regulatory
+152,Cd55,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+5,Cd9,Breg; B10; Common genes across tissues,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711969",1,Regulatory
+157,Clic4,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+159,Cpm,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+65,Crim1,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712029",1,Regulatory
+64,Elk3,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712028",1,Regulatory
+163,Ell2,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+10,Fcer2a,Breg; non-B10 Bregs; mouseBregDEGs,Up or Down," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711974",1;2,Regulatory
+169,Filip1l,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+170,Fut8,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+14,Havcr1,Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711978",1,Regulatory
+49,Hdac9,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712013",1,Regulatory
+11,Ighd,Breg; non-B10 Bregs,Up or Down," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711975",1,Regulatory
+107,Il5ra,Atf3-related gene expression between Breg cells and non-Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712071",1,Regulatory
+180,Itgb1,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+182,Klf2,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+21,Lipc,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711985",1,Regulatory
+105,Lmna,Atf3-related gene expression between Breg cells and non-Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712069",1,Regulatory
+187,Mcph1,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+56,Mlkl,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712020",1,Regulatory
+124,Ms4a4c,non-B10 Bregs,Down," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712088",1,Regulatory
+190,Mthfd2,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+100,Mzb1,Common genes across tissues,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712064",1,Regulatory
+23,Nebl,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711987",1,Regulatory
+19,Nid1,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711983",1,Regulatory
+67,Nt5e,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712031",1,Regulatory
+98,Pdia4,Common genes across tissues,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712062",1,Regulatory
+194,Plscr1,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+196,Ppfibp2,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+197,Prdm1,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+198,Prkar2a,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+69,Ptprj,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712033",1,Regulatory
+203,Ralgps2,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+52,Rgs13,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712016",1,Regulatory
+206,Ripor2,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+97,Rplp0,Common genes across tissues,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712061",1,Regulatory
+209,Sfxn3,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+81,Sh2d1b1,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712045",1,Regulatory
+213,Sowahc,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+95,Sp140,Common genes across tissues,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712059",1,Regulatory
+66,Stat1,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712030",1,Regulatory
+117,Stmn1,Breg subsets marker genes ,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712081",1,Regulatory
+18,Tbc1d9,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711982",1,Regulatory
+218,Tent5a,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+219,Tent5c,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+222,Tmcc3,mouseBregDEGs,Up,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+35,Zbtb32,B10; Atf3-related gene expression between Breg cells and non-Breg,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.711999",1,Regulatory
+42,Zdhhc2,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712006",1,Regulatory
+227,Zfp318,mouseBregDEGs,Down,"Dubois, Florian, et al. ""Transcriptional meta‐analysis of regulatory B cells."" European Journal of Immunology 50.11 (2020): 1757-1769.",2,Regulatory
+40,Zfp945,B10,Up," Yang, SY et al. (2021) Characterization of Organ-Specific Regulatory B Cells Using Single-Cell RNA Sequencing. Front. Immunol. 12:711980. doi: 10.3389/fimmu.2021.712004",1,Regulatory
