@@ -1,4 +1,4 @@
 # Code Information
-R/Bioconductor DESeq2 for differential expression analysis 
+R/Bioconductor package DESeq2 for differential expression analysis 
 
-R/Bioconductor clusterProfiler for Over Representation Analysis 
+R/Bioconductor package clusterProfiler for Over Representation Analysis 
