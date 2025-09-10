@@ -2,7 +2,7 @@
 
 # Code Written by Laila M Rad
 # Lonnie Shea Lab
-# Updated July 2025
+# Updated September 2025
 
 
 #load libraries ----
@@ -33,6 +33,7 @@ library(GOSemSim)
 library(ggtreeExtra)
 library(ggtree)
 library(ggkegg)
+library(rstatix)
 #BiocManager::install("ggtreeExtra")
 
 
@@ -259,6 +260,16 @@ SpleenDownNP = Spleen_NPvPBS3 %>%
   filter(padj < pc, log2FoldChange < -LFc) %>%
   arrange(desc(abs(log2FoldChange)))
 
+#Export DEGs to csv file
+write.csv(
+Spleen_NPvPBS3 %>%
+  data.frame() %>%
+  rownames_to_column(var="gene") %>% 
+  as_tibble() %>% 
+  filter(padj < pc, abs(log2FoldChange) > LFc) %>%
+  arrange(desc(abs(log2FoldChange))),
+"Spleen_DEGs_NPvs.PBS.csv")
+
 
 #DEGs in PP----
 #Log fold change shrinkage for visualization and ranking----
@@ -292,6 +303,17 @@ PPDownNP = PP_NPvPBS3 %>%
   arrange(desc(abs(log2FoldChange)))
 
 
+#Export DEGs to csv file
+write.csv(
+  PP_NPvPBS3 %>%
+    data.frame() %>%
+    rownames_to_column(var="gene") %>% 
+    as_tibble() %>% 
+    filter(padj < pc, abs(log2FoldChange) > LFc) %>%
+    arrange(desc(abs(log2FoldChange))),
+  "PP_DEGs_NPvs.PBS.csv")
+
+
 #Lit review Breg markers ----
 Bcellmarkers = read.csv("Bcellmarkers2.csv")
 
@@ -311,7 +333,7 @@ intersect(BregUp$Genes, SpleenUpNP$gene),
 intersect(BregDown$Genes, SpleenDownNP$gene)
 )))
 
-39/186
+42/186
 
 length(unique(intersect(BregUp$Genes, SpleenDownNP$gene)))
 
@@ -448,6 +470,7 @@ view(cluster_rlog_Sp[intersect(BregDown$Genes, SpleenDownNP$gene),])
 
 view(cluster_rlog_Sp[intersect(BregUp$Genes, SpleenDownNP$gene),])
 
+#write.csv(cluster_rlog_Sp, "Fig4A.csv")
 
 
 # Heatmap of Breg Markers DEGs in Spleen ----
@@ -457,6 +480,7 @@ view(cluster_rlog_Sp[intersect(BregUp$Genes, SpleenDownNP$gene),])
 #          antialias = "none", family = "Arial",  fallback_resolution = 600)
 
 
+#* Fig. 4A Heatmap ----
 pdf(file = "SpleenBcells_Heatmap_DEGs_BregMarkers.pdf",width = 3.5, height = 6.2)
 pheatmap::pheatmap(
   
@@ -689,6 +713,8 @@ head(ck)
 
 view(ck@compareClusterResult)
 
+write.csv(ck@compareClusterResult, "Spleen_GO_ORA_NPandPBS.csv")
+
 d <- godata('org.Mm.eg.db', ont="BP")
 ck <- pairwise_termsim(ck, method="JC", semData = d,
                        showCategory = 500)
@@ -706,6 +732,7 @@ trace("treeplot.compareClusterResult", edit=TRUE, where = enrichplot::treeplot)
 # line 147: pwidth = 0.1, offset = 0, text.size = 6
 # remove + coord_equal() from last line
 
+#* Fig. 4B Treeplot ----
 #png(file = "GOenrich_Spleen.png",units = "in",width = 14, height = 6, res = 400)
 #cairo_pdf(file = "GOenrich_Spleen_dotplot2.pdf",width = 14, height = 12)
 
@@ -725,7 +752,7 @@ treeplot(ck,
         clusterPanel.params = list(clusterPanel = "dotplot", legend_n = 3, size = "GeneRatio")) + ggtitle("Spleen") #+theme_prism()
 dev.off()
 
- #gseKEGG Sp NPvPBS ----
+#gseKEGG Sp NPvPBS ----
 head(res_ids_sp)
 Sp_geneList =  res_ids_sp %>%
   #filter(padj < 0.05) %>%
@@ -810,6 +837,7 @@ head(ck4)
 ck4 <- pairwise_termsim(ck4, method="JC", semData = d,
                        showCategory = 500)
 
+#* SI Fig. 9 Treeplot ----
 #cairo_pdf(file = "GOenrich_PP_dotplot.pdf",width = 14, height = 6)
 treeplot(ck4,
          #filter(ck, Count > 20),
@@ -827,17 +855,17 @@ treeplot(ck4,
          clusterPanel.params = list(clusterPanel = "dotplot", legend_n = 3, size = "GeneRatio")) + ggtitle("PP")
 dev.off()
 
-
+write.csv(ck4@compareClusterResult, "PP_GO_ORA_NPandPBS.csv")
 
 #plot individual genes ----
-count.data["Il10",]
+count.data["Fcer2a",]
 plotCounts(dds_full_Spleen, 
-           "Il10", normalized = T,
+           "Fcer2a", normalized = T,
            intgroup = c("Tx","Tissue","Sample Label"), returnData = T)
 
 #plotCounts(dds_full_Spleen, gene = "Fcer2a", intgroup = c("Tx"))
 
-#SI FIG 11 ----
+
 #plot CD23 expression ----
 #Spleen CD23 ----
 fiss <- plotCounts(dds_full_Spleen, 
@@ -847,11 +875,12 @@ fiss <- plotCounts(dds_full_Spleen,
 fiss = fiss[fiss$Tx %in% c("PBS", "OVA NPs"),]
 fiss$Tx = factor(fiss$Tx, levels = c("PBS", "OVA NPs") )
 fiss
+
 Spleen_filt1["Fcer2a",]
 
 Spleen_NPvPBS3["Fcer2a",]
-Spleen_sOVAvPBS3["Fcer2a",]
-Spleen_NPvsOVA3["Fcer2a",]
+#Spleen_sOVAvPBS3["Fcer2a",]
+#Spleen_NPvsOVA3["Fcer2a",]
 
 
 
